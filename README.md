@@ -54,11 +54,10 @@ Blinkit-Excel-Dashboard/
 ## 📌 How to Use
 
 1. **Download or clone** this repository:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-excel-dashboard.git
+  https://github.com/Rutuja-832001/Excel_Projects.git
    ```
 
-2. **Open the `.xlsx` file** in Microsoft Excel.
+2. **Open the `Blinkit Excel FPro.xlsx` file** in Microsoft Excel.
 
 3. Use **slicers and filters** to explore different insights dynamically.
 
