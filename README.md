@@ -66,6 +66,6 @@ Blinkit-Excel-Dashboard/
 ## 🔍 Insights Uncovered
 
 - Identified top-performing cities and product categories
-- Seasonal spikes in orders during weekends and festivals
-- Delivery delays most frequent in Tier-2 cities
 - Customer AOV increases for bundled promotions
+- Older outlets outperform newer ones
+- Need to diversify product visibility
